@@ -21,6 +21,12 @@ A text-guided weakly supervised pathology segmentation framework that uses multi
 
 [Paper](https://zms618.github.io/papers/tg-wspis-icme-2026.pdf) · [Repository](https://github.com/zms618/TG-WSPIS)
 
+## Open Source
+
+### [pathology-toolkit](https://github.com/zms618/pathology-toolkit)
+
+Reusable utilities for computational pathology workflows, including patient-level splitting, medical-image evaluation, bootstrap confidence intervals, attention visualization, and WSI inspection.
+
 ## Research & Engineering
 
 - **Computational pathology:** WSI processing, patch construction, cell-level analysis, and slide-level evidence aggregation
