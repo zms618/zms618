@@ -24,7 +24,7 @@
 
 [论文](https://zms618.github.io/papers/tg-wspis-icme-2026.pdf) · [代码仓库](https://github.com/zms618/TG-WSPIS)
 
-## ChatGPT 科研插件
+## 用着不烧心的ChatGPT 科研插件academic-skills
 
 ### [论文带读 · paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.md)
 

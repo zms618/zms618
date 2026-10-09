@@ -23,7 +23,7 @@ A text-guided weakly supervised pathology segmentation framework that uses multi
 
 [Paper](https://zms618.github.io/papers/tg-wspis-icme-2026.pdf) · [Repository](https://github.com/zms618/TG-WSPIS)
 
-## ChatGPT Plugins
+## No-Heartburn ChatGPT Research Plugins · academic-skills
 
 ### [paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.en.md)
 
