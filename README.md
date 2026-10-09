@@ -21,6 +21,16 @@ A text-guided weakly supervised pathology segmentation framework that uses multi
 
 [Paper](https://zms618.github.io/papers/tg-wspis-icme-2026.pdf) · [Repository](https://github.com/zms618/TG-WSPIS)
 
+## ChatGPT Plugins
+
+### [paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.en.md)
+
+Guided paper reading in ChatGPT, pairing explanations with original paper figures and helping researchers examine assumptions, assess evidence, and develop independent research judgment.
+
+### [Research Idea Discovery](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/research-idea-discovery/README.en.md)
+
+A literature-grounded workflow in ChatGPT for identifying research questions, checking closely related work and reproducibility resources, and designing minimal experiments to assess promising ideas.
+
 ## Open Source
 
 ### [pathology-toolkit](https://github.com/zms618/pathology-toolkit)
