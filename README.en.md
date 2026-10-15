@@ -2,9 +2,9 @@
 
 [简体中文](https://github.com/zms618) | **English**
 
-M.S. student at **Fuzhou University**, working on **Computational Pathology** and **Medical Image Analysis**.
+M.S. student at **Fuzhou University · PhD applicant for Fall 2027**, working on **Computer Vision, Multimodal Learning, and Computational Pathology**.
 
-My research focuses on reliable and label-efficient learning for medical images, especially:
+With computational pathology as my primary application domain, I study:
 
 - **Fine-grained visual evidence** in cytology and pathology
 - **Weakly supervised & multimodal learning**
@@ -33,19 +33,21 @@ A set-prediction framework for cervical cytology cell detection that incorporate
 
 [Project Page](https://github.com/zms618/CytoSet)
 
-## No-Heartburn ChatGPT Research Plugins · academic-skills
+## Research Plugins to Help You Read, Evaluate Ideas, and Move Forward
+
+Three plugins for research learning and everyday research, available in ChatGPT on the web. [Collection & installation guide](https://github.com/zms618/no-heartburn-academic-skills/blob/main/README.en.md)
 
 ### [paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.en.md)
 
-Helps you move from understanding papers to thinking critically about them. Work through research questions, methods, and experiments alongside original figures, learning to question assumptions, assess evidence, and develop your own research judgment.
+**Understand papers and learn to evaluate their claims.** Work through the research question, method, and experiments alongside the original figures. Question assumptions and examine evidence to move from understanding what the authors did to judging why they did it and whether their conclusions hold up.
 
 ### [Research Idea Discovery](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/research-idea-discovery/README.en.md)
 
-Helps you turn broad research interests into questions worth testing. Explore the literature, clarify motivation, check prior work and feasibility, and design small-scale experiments to decide whether an idea deserves further investment.
+**Decide whether a research idea deserves your time and resources.** Turn it into a testable question, check related work, novelty, data, and computing requirements, then examine counterexamples and weaknesses from a reviewer’s perspective. Plan small-scale validation to decide whether to continue, revise, or stop.
 
 ### [AI Mentor](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/ai-mentor/README.en.md)
 
-Draws on mentoring approaches used by experienced research supervisors to help you work through research challenges—from choosing a topic and reading papers to designing experiments, interpreting results, and writing manuscripts. Clarify your thinking, identify the next step, and build independent reasoning and problem-solving skills through discussion.
+**Work through research difficulties and identify your next step.** A mentoring workflow built around supervisor-style questioning, evidence review, and progress reflection helps you discuss topic selection, literature, experiment design, failed results, and manuscript writing. Break complex difficulties into actionable questions and practice independent research judgment and problem-solving through discussion.
 
 ## Open Source
 
@@ -56,13 +58,14 @@ Reusable utilities for computational pathology workflows, including patient-leve
 ## Research & Engineering
 
 - **Computational pathology:** WSI processing, patch construction, cell-level analysis, and slide-level evidence aggregation
-- **Deep learning:** Python, PyTorch, CUDA, Linux; model implementation, training, evaluation, and reproducible experimentation
-- **Deployment & infrastructure:** ONNX, TensorRT, GPU inference, and research computing environments
+- **Deep learning & model engineering:** Python, PyTorch, CUDA; implementation, training, evaluation, reproducible experiments, and ONNX / TensorRT inference optimization
+- **Linux & research computing:** Independently maintain the lab’s Linux/GPU servers, including NVIDIA drivers, CUDA environments, user permissions, and troubleshooting, supporting the team’s training and experiments
+- **AI-assisted research:** AI coding tools for development and experimental iteration, research Agent Skills, and evidence-checking workflows
 
 ## Current Focus
 
-I am currently exploring **reliable medical vision under limited annotation and distribution shifts**, with a particular interest in cervical cytology, weak supervision, multimodal learning, and domain generalization.
+My research experience spans fine-grained visual perception, weakly supervised and multimodal learning, and domain generalization. Through literature reading and technical exploration, I also follow advances in VLA, world models, and AI agents.
 
 ---
 
-<sub>PhD applicant for Fall 2027 · Open to research discussions and collaborations in computational pathology and medical image analysis.</sub>
+<sub>PhD applicant for Fall 2027 · Open to research discussions and collaborations in computer vision, multimodal learning, and computational pathology.</sub>
