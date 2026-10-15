@@ -2,7 +2,7 @@
 
 [简体中文](https://github.com/zms618) | **English**
 
-M.S. student at **Fuzhou University · PhD applicant for Fall 2027**, with research interests in **Computer Vision, Multimodal Learning, and Robust Representation Learning**.
+M.S. student at **Fuzhou University · PhD applicant for Fall 2027**, with research interests in **Computer Vision, Multimodal Learning, Medical Image Analysis, and Robust Representation Learning**.
 
 My work to date primarily uses computational pathology as an application domain to investigate fine-grained visual perception, weakly supervised and multimodal learning, and domain generalization under distribution shifts. Building on this methodological and experimental experience, I hope to explore questions with scientific and practical value.
 
