@@ -30,7 +30,7 @@
 
 面向宫颈细胞检测的集合预测框架，将贝塞斯达诊断类别顺序融入学习过程，改善诊断等级一致性并减少高风险细胞的降级误判。
 
-[项目主页](https://github.com/zms618/CytoSet)
+[论文 PDF](https://zms618.github.io/papers/cytoset-neurocomputing.pdf) · [代码仓库](https://github.com/zms618/CytoSet)
 
 ## 帮你读论文、找问题、理思路 · ChatGPT 科研插件
 

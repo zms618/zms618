@@ -29,7 +29,7 @@ First author · Neurocomputing · Accepted
 
 A set-prediction framework for cervical cytology cell detection that incorporates Bethesda diagnostic ordering to improve grade consistency and reduce high-risk cell downgrading errors.
 
-[Project Page](https://github.com/zms618/CytoSet)
+[Paper (PDF)](https://zms618.github.io/papers/cytoset-neurocomputing.pdf) · [Code Repository](https://github.com/zms618/CytoSet)
 
 ## Research Plugins to Help You Read, Evaluate Ideas, and Move Forward
 
