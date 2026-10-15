@@ -24,6 +24,16 @@
 
 [论文](https://zms618.github.io/papers/tg-wspis-icme-2026.pdf) · [代码仓库](https://github.com/zms618/TG-WSPIS)
 
+### CytoSet — Neurocomputing
+
+**CytoSet: Bethesda-Order-Aware Set Prediction for Cervical Cytology Cell Detection**
+
+第一作者 · Neurocomputing · 已录用
+
+面向宫颈细胞检测的集合预测框架，将贝塞斯达诊断类别顺序融入学习过程，改善诊断等级一致性并减少高风险细胞的降级误判。
+
+[项目主页](https://github.com/zms618/CytoSet)
+
 ## 用着不烧心的ChatGPT 科研插件academic-skills
 
 ### [论文带读 · paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.md)
@@ -33,6 +43,10 @@
 ### [科研创新点发现与验证 · Research Idea Discovery](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/research-idea-discovery/README.md)
 
 基于文献的 ChatGPT 科研工作流，支持发现研究问题、核查近邻工作与复现资源，并设计最小实验来评估研究想法。
+
+### [AI 导师 · AI Mentor](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/ai-mentor/README.md)
+
+围绕研究想法、文献阅读、实验设计、论文写作、科研绘图与投稿前评审提供连贯的科研讨论，帮助把复杂问题拆解为可行动的研究任务。
 
 ## 开源项目
 

@@ -23,6 +23,16 @@ A text-guided weakly supervised pathology segmentation framework that uses multi
 
 [Paper](https://zms618.github.io/papers/tg-wspis-icme-2026.pdf) · [Repository](https://github.com/zms618/TG-WSPIS)
 
+### CytoSet — Neurocomputing
+
+**CytoSet: Bethesda-Order-Aware Set Prediction for Cervical Cytology Cell Detection**
+
+First author · Neurocomputing · Accepted
+
+A set-prediction framework for cervical cytology cell detection that incorporates Bethesda diagnostic ordering to improve grade consistency and reduce high-risk cell downgrading errors.
+
+[Project Page](https://github.com/zms618/CytoSet)
+
 ## No-Heartburn ChatGPT Research Plugins · academic-skills
 
 ### [paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.en.md)
@@ -32,6 +42,10 @@ Guided paper reading in ChatGPT, pairing explanations with original paper figure
 ### [Research Idea Discovery](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/research-idea-discovery/README.en.md)
 
 A literature-grounded workflow in ChatGPT for identifying research questions, checking closely related work and reproducibility resources, and designing minimal experiments to assess promising ideas.
+
+### [AI Mentor](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/ai-mentor/README.en.md)
+
+Research guidance spanning ideas, literature reading, experiment design, manuscript writing, scientific figures, and pre-submission review, helping turn complex questions into actionable research tasks.
 
 ## Open Source
 
