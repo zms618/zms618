@@ -2,13 +2,11 @@
 
 [简体中文](https://github.com/zms618) | **English**
 
-M.S. student at **Fuzhou University · PhD applicant for Fall 2027**, working on **Computer Vision, Multimodal Learning, and Computational Pathology**.
+M.S. student at **Fuzhou University · PhD applicant for Fall 2027**, with research interests in **Computer Vision, Multimodal Learning, and Robust Representation Learning**.
 
-With computational pathology as my primary application domain, I study:
+My work to date primarily uses computational pathology as an application domain to investigate fine-grained visual perception, weakly supervised and multimodal learning, and domain generalization under distribution shifts. Building on this methodological and experimental experience, I hope to explore questions with scientific and practical value.
 
-- **Fine-grained visual evidence** in cytology and pathology
-- **Weakly supervised & multimodal learning**
-- **Domain generalization & robustness** under scanner, center, and dataset shifts
+Through literature reading and technical exploration, I also follow advances in **vision-language-action models (VLA), world models, and AI agents**.
 
 [Homepage](https://zms618.github.io/) · [CV](https://zms618.github.io/cv/he-cheng-cv.pdf) · [Email](mailto:241027149@fzu.edu.cn)
 
@@ -59,12 +57,8 @@ Reusable utilities for computational pathology workflows, including patient-leve
 
 - **Computational pathology:** WSI processing, patch construction, cell-level analysis, and slide-level evidence aggregation
 - **Deep learning & model engineering:** Python, PyTorch, CUDA; implementation, training, evaluation, reproducible experiments, and ONNX / TensorRT inference optimization
-- **Linux & research computing:** Independently maintain the lab’s Linux/GPU servers, including NVIDIA drivers, CUDA environments, user permissions, and troubleshooting, supporting the team’s training and experiments
+- **Linux & research computing:** Responsible for Linux/GPU server deployment and computing environment setup since the lab’s early days; independently maintain NVIDIA drivers, CUDA environments, and user permissions, and troubleshoot issues to support the team’s training and experiments
 - **AI-assisted research:** AI coding tools for development and experimental iteration, research Agent Skills, and evidence-checking workflows
-
-## Current Focus
-
-My research experience spans fine-grained visual perception, weakly supervised and multimodal learning, and domain generalization. Through literature reading and technical exploration, I also follow advances in VLA, world models, and AI agents.
 
 ---
 
