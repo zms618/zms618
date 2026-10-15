@@ -38,15 +38,15 @@
 
 ### [论文带读 · paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.md)
 
-在 ChatGPT 中结合论文原图逐步讲解，帮助研究者审视假设、核查证据，并练习独立的科研判断。
+帮助你从“看懂论文”走向“学会思考”：结合论文原图，带你理清研究问题、方法与实验，学会追问假设、判断证据，逐步形成自己的科研判断。
 
 ### [科研创新点发现与验证 · Research Idea Discovery](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/research-idea-discovery/README.md)
 
-基于文献的 ChatGPT 科研工作流，支持发现研究问题、核查近邻工作与复现资源，并设计最小实验来评估研究想法。
+帮助你把模糊的研究兴趣变成值得验证的问题：一起读文献、找动机、查新与检验可行性，再设计小规模实验，判断一个想法是否值得继续投入。
 
 ### [AI 导师 · AI Mentor](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/ai-mentor/README.md)
 
-围绕研究想法、文献阅读、实验设计、论文写作、科研绘图与投稿前评审提供连贯的科研讨论，帮助把复杂问题拆解为可行动的研究任务。
+借鉴资深导师的科研指导思路，陪你拆解科研路上的问题：从选题、读论文到设计实验、分析结果与论文写作，帮助你理清思路、找到下一步，并在讨论中逐步提升独立思考与解决问题的能力。
 
 ## 开源项目
 

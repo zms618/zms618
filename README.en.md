@@ -37,15 +37,15 @@ A set-prediction framework for cervical cytology cell detection that incorporate
 
 ### [paper-reading](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/paper-reading/README.en.md)
 
-Guided paper reading in ChatGPT, pairing explanations with original paper figures and helping researchers examine assumptions, assess evidence, and develop independent research judgment.
+Helps you move from understanding papers to thinking critically about them. Work through research questions, methods, and experiments alongside original figures, learning to question assumptions, assess evidence, and develop your own research judgment.
 
 ### [Research Idea Discovery](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/research-idea-discovery/README.en.md)
 
-A literature-grounded workflow in ChatGPT for identifying research questions, checking closely related work and reproducibility resources, and designing minimal experiments to assess promising ideas.
+Helps you turn broad research interests into questions worth testing. Explore the literature, clarify motivation, check prior work and feasibility, and design small-scale experiments to decide whether an idea deserves further investment.
 
 ### [AI Mentor](https://github.com/zms618/no-heartburn-academic-skills/blob/main/skills/ai-mentor/README.en.md)
 
-Research guidance spanning ideas, literature reading, experiment design, manuscript writing, scientific figures, and pre-submission review, helping turn complex questions into actionable research tasks.
+Draws on mentoring approaches used by experienced research supervisors to help you work through research challenges—from choosing a topic and reading papers to designing experiments, interpreting results, and writing manuscripts. Clarify your thinking, identify the next step, and build independent reasoning and problem-solving skills through discussion.
 
 ## Open Source
 
