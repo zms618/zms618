@@ -2,11 +2,11 @@
 
 [简体中文](https://github.com/zms618) | **English**
 
-M.S. student at **Fuzhou University · PhD applicant for Fall 2027**, with research interests in **Computer Vision, Multimodal Learning, Medical Image Analysis, and Robust Representation Learning**.
+M.S. student at **Fuzhou University · PhD applicant for Fall 2027**. My interests include **multimodal learning** (VLMs, cross-modal alignment, visual-language grounding, and evidence reasoning), **reliability and generalization** (domain generalization, distribution shifts, test-time adaptation, and robustness), and **medical AI** (computational pathology, medical imaging, fine-grained cell analysis, and medical multimodal learning).
 
 My work to date primarily uses computational pathology as an application domain to investigate fine-grained visual perception, weakly supervised and multimodal learning, and domain generalization under distribution shifts. Building on this methodological and experimental experience, I hope to explore questions with scientific and practical value.
 
-I also follow advances in **vision-language-action models (VLA), world models, and AI agents**.
+I also follow emerging **embodied AI**, including vision-language-action (VLA) models, world models, and multimodal agents.
 
 [Homepage](https://zms618.github.io/) · [CV](https://zms618.github.io/cv/he-cheng-cv.pdf) · [Email](mailto:241027149@fzu.edu.cn)
 
@@ -62,4 +62,4 @@ Reusable utilities for computational pathology workflows, including patient-leve
 
 ---
 
-<sub>PhD applicant for Fall 2027 · Open to research discussions and collaborations in computer vision, multimodal learning, and computational pathology.</sub>
+<sub>PhD applicant for Fall 2027 · Open to discussions and collaborations in multimodal learning, reliable AI, medical AI, and emerging embodied AI.</sub>
