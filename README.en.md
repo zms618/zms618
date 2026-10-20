@@ -6,7 +6,7 @@ M.S. student at **Fuzhou University · PhD applicant for Fall 2027**. My interes
 
 My work to date primarily uses computational pathology as an application domain to investigate fine-grained visual perception, weakly supervised and multimodal learning, and domain generalization under distribution shifts. Building on this methodological and experimental experience, I hope to explore questions with scientific and practical value.
 
-I also follow emerging research in vision-language-action (VLA) models, world models, and 3D reconstruction.
+I also follow frontier developments in AI, including vision-language-action (VLA) models, world models, and 3D reconstruction.
 
 [Homepage](https://zms618.github.io/) · [CV](https://zms618.github.io/cv/he-cheng-cv.pdf) · [Email](mailto:241027149@fzu.edu.cn)
 
